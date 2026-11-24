@@ -1,0 +1,1 @@
+ /home/runner/work/mobile_apps_socolcova/mobile_apps_socolcova/.dart_tool/flutter_build/cdc7575d9c90e027aceae8e1b4b7492c/build_hooks_result.json: 

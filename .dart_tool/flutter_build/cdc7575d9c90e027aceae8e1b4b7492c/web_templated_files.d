@@ -1,0 +1,1 @@
+ /home/runner/work/mobile_apps_socolcova/mobile_apps_socolcova/build/web/flutter_bootstrap.js /home/runner/work/mobile_apps_socolcova/mobile_apps_socolcova/build/web/index.html:  /home/runner/work/mobile_apps_socolcova/mobile_apps_socolcova/web/index.html
